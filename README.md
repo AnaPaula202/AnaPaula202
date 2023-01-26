@@ -1,4 +1,4 @@
-### Hey there mi nombre es Ana Paula 👋
+### Hey there, mi nombre es Ana Paula 👋
 
 Y aqui va un poco sobre mi :star2:
 <!--
