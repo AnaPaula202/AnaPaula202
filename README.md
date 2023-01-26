@@ -1,6 +1,9 @@
 ### Hey there, mi nombre es Ana Paula 👋
 
 Y aqui va un poco sobre mi :star2:
+
+💻Actualmente estudio Sistemas Computacionales
+✨A veces (_mucho_) me gusta hablar inglés 
 <!--
 **AnaPaula202/AnaPaula202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
