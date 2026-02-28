@@ -2,12 +2,11 @@
 
 Y aqui va un poco sobre mi :star2:
 
-- 💻 Actualmente estudio Sistemas Computacionales
+- 💻 Estudié Sistemas Computacionales
 - :rocket: Quiero dedicarme al desarrollo en realidad virtual
 - :tv: Me gustan los videojuegos, los trucos de magia, los juegos de mesa y las historias de superhéroes en general (todo lo que tenga que ver con *superpoderes* y aliens también :alien:)
 - ✨ A veces (_mucho_) me gusta hablar inglés 
 - :sagittarius: Nací el 2 de Diciembre del 2002
-- :octocat: Dato: Amo a mis 2 lindas gatitas (_Bicha y Mimi_)
 <!--
 **AnaPaula202/AnaPaula202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
