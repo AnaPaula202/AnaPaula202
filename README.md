@@ -3,7 +3,8 @@
 Y aqui va un poco sobre mi :star2:
 
 - 💻 Estudié Sistemas Computacionales
-- :rocket: Quiero dedicarme al desarrollo en realidad virtual
+- 📄 Me dedico al análisis y automatización de procesos
+- :rocket: Me interesa el desarrollo de realidad virtual
 - :tv: Me gustan los videojuegos, los trucos de magia, los juegos de mesa y las historias de superhéroes en general.
 - :sagittarius: Nací el 2 de Diciembre del 2002
 <!--
